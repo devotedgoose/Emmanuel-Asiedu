@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛠 [TechEase Repair Service](https://github.com/devotedgoose/TechEase)
+### 🛠 [TechEase Repair Service](https://github.com/devotedgoose/TechEase-Repair-Service)
 A Python-based **ticket submission system** built with Tkinter GUI for managing repair requests.
 - Two-window interface with validation, labels, buttons, and callback functions  
 - Designed for service tracking in tech support and computer repair environments  
