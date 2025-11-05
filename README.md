@@ -28,12 +28,13 @@
 ---
 
 ## 🚀 Featured Projects
-
 ### 🛠 [TechEase Repair Service](https://github.com/devotedgoose/Final-Projects)
-A Python-based **ticket submission system** built with Tkinter GUI for managing repair requests.
-- Two-window interface with validation, labels, buttons, and callback functions  
+
+A Python-based **ticket submission system** built with Tkinter GUI for managing repair requests.  
+- Two-window interface with input validation, labels, buttons, and callback functions  
 - Designed for service tracking in tech support and computer repair environments  
-- Demonstrates GUI programming, logic design, and modular coding in Python  
+- Demonstrates GUI programming, logic design, and modular coding in Python
+  
 
 ### 🌐 [Network & Security Labs](https://github.com/devotedgoose/network-labs)
 Hands-on labs showcasing my experience with Cisco Packet Tracer, Windows Server, and virtualization.
