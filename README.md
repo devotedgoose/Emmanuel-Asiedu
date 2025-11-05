@@ -28,7 +28,7 @@
 ---
 
 ## 🚀 Featured Projects
-### 🛠 [TechEase Repair Service](https://github.com/devotedgoose/Final-Projects)
+### 🛠 [G-Tech Repair Ticket System](https://github.com/devotedgoose/Final-Projects)
 
 A Python-based **ticket submission system** built with Tkinter GUI for managing repair requests.  
 - Two-window interface with input validation, labels, buttons, and callback functions  
